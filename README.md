@@ -88,14 +88,13 @@ hospital-revenue-cycle-analysis
 📸 Dashboard Screenshots
 
 Executive Dashboard
-(Add Screenshot Here)
+![Executive Dashboard](EXECUTIVE DASHBOARD.png)
 
-### Claims Analysis Dashboard
-(Add Screenshot Here)
+Claims Analysis Dashboard
+![Claims Analysis Dashboard](CLAIM ANALYSIS.png)
 
-### Revenue Analysis Dashboard
-(Add Screenshot Here)
-
+Revenue Analysis Dashboard
+![Revenue Analysis Dashboard](REVENUE ANALYSIS.png)
 ---
 
 🎯 Skills Demonstrated
